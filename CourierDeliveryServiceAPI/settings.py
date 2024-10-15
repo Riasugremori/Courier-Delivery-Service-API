@@ -27,8 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-AUTH_USER_MODEL = 'deliveris.CustomUser'
-
+AUTH_USER_MODEL = 'CourierSecond.CustomUser'
 
 
 # Application definition
