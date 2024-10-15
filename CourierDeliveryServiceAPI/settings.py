@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'drf_yasg',
     'rest_framework.authtoken',
     'CourierSecond',
+    'rest_framework_simplejwt',
 ]
 
 MIDDLEWARE = [
